@@ -1,0 +1,7 @@
+PASSWORD SECURITY REPORT
+========================
+
+Length: 11
+Security Score: 65/100
+Strength: MODERATE
+Estimated Entropy: 72.10 bits
